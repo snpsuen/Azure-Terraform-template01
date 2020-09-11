@@ -1,7 +1,9 @@
 # terraform-azure-template01
 Sample terraform IaC for deploying Azure resources based on https://github.com/PacktPublishing/Learning_DevOps/tree/master/CHAP02/terraform_vars_interp
 
-To use or test out the code, git clone https://github.com/snpsuen/terraform-azure-template01 and cd the repo directory <br>
+To use or test out the code, git clone https://github.com/snpsuen/terraform-azure-template01 and cd the repo directory. <br>
+Assume Terraform has been set up on the local host. <br>
+<br>
 (1)  Export the Azure environment variables: <br>
 export ARM_SUBSCRIPTION_ID=xxxxx-xxxxx-xxxx-xxxx <br>
 export ARM_CLIENT_ID=xxxxx-xxxxx-xxxx-xxxx <br>
