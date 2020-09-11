@@ -1,4 +1,4 @@
-# terraform-azure-template01
+# Azure-Terraform-template01
 Sample terraform IaC for deploying Azure resources based on https://github.com/PacktPublishing/Learning_DevOps/tree/master/CHAP02/terraform_vars_interp
 
 To use or test out the code, git clone https://github.com/snpsuen/terraform-azure-template01 and cd the repo directory. <br>
